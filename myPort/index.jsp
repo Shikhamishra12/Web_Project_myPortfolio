@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+
+<html>
+
+
+  <style>
+body {
+    background: url(Glare3.jpg)  ;
+    background-repeat:no-repeat;
+        background-size:cover;
+}
+</style>
+<body>
+  <div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-8"> <br><br><br><br>
+<font size="50"  face="Algerian" color="white">  <b><b><h1 align="center"><marquee behavior="alternate" direction="down" scrollamount="3">WELCOME TO MY PORTFOLIO</marquee>  </h1></b></b></font></div>
+  <div class="col-xs-6 col-md-4"><br><Br><Br><br> <br>
+  <br>        <Br><br> <br>    ................................
+  <img src="myself3.jpeg" class=" img-thumbnail" alt="Cinque Terre"  width="150" height="150"><br>
+           <font size="6"  face="Algerian" color="white">  <b><b><h2 align="center"><marquee behavior="alternate"  scrollamount="3">SHIKHA MISHRA</marquee>  </h2></b></b></font>
+  <p align="right">  <font size="7"  face="aerial black" color="black"> <a href="start.jsp" class="btn btn-primary btn-lg" >  <span class="glyphicon glyphicon-hand-right"></span>    Next
+    </a>
+   </font> </p></div>
+</div>
+
+
+</body>
+
+</html>
+
