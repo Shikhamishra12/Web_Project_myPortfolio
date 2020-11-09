@@ -15,7 +15,7 @@
 <body>
  <font   face="aerial black" color="white">  <h1 align="center">   <u> Showcase my works</u></h1>
  <h2 align="center"> I have already made a project in class 12th using netbeans ..<BR>
-<BR><I>Topic  : WAR AND WEAPONS ...</I></H2>
+<BR><I>Topic  : WAR AND WEAPONS ...........</I></H2>
     <style>
 div.gallery {
   border: 1px solid #ccc;
